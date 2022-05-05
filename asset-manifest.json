@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ec787a8.css",
+    "main.js": "/static/js/main.05583943.js",
+    "static/js/787.af02f3ae.chunk.js": "/static/js/787.af02f3ae.chunk.js",
+    "static/media/media.svg": "/static/media/media.ac7015e70314fc49b01e4b31968546e7.svg",
+    "static/media/new-post.svg": "/static/media/new-post.c6c267d65b14b7ffd1e5f4eb882e64e8.svg",
+    "static/media/activity.svg": "/static/media/activity.3fc82dca7526f1e895c76e16ae4f6653.svg",
+    "index.html": "/index.html",
+    "static/media/explore.svg": "/static/media/explore.e80826bffed2f417a5831e52c196d43b.svg",
+    "static/media/imoticon.svg": "/static/media/imoticon.ec7a8db10e8b5b90d782b4d4268be02d.svg",
+    "static/media/search.svg": "/static/media/search.17d7da3eb6f38cd6b28933529c203731.svg",
+    "static/media/direct.svg": "/static/media/direct.e85ba4f06ba008caa326f7b311cc5c90.svg",
+    "static/media/home.svg": "/static/media/home.0b29f53f729fc1c15a8900ee8effb288.svg",
+    "static/media/comment.svg": "/static/media/comment.ae8b37e2d7d3878826bd366b7ebc8bfe.svg",
+    "main.1ec787a8.css.map": "/static/css/main.1ec787a8.css.map",
+    "main.05583943.js.map": "/static/js/main.05583943.js.map",
+    "787.af02f3ae.chunk.js.map": "/static/js/787.af02f3ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec787a8.css",
+    "static/js/main.05583943.js"
+  ]
+}
